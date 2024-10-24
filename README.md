@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on Django and Flask
-- 🌱 I’m currently learning ASP .NET 6
+- 🌱 I’m currently learning Azure
 - 🤔 I’m looking for help with MongoDB
 - 📫 How to reach me: rbnshj123@gmail.com
